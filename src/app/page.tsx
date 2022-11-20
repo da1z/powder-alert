@@ -10,7 +10,8 @@ const getResorts = async () => {
         resortName === "Mammoth Mountain" ||
         resortName === "Snow Summit" ||
         resortName === "Bear Mountain" ||
-        resortName === "June Mountain"
+        resortName === "June Mountain" ||
+        resortName === "Mountain High"
     );
   return caResorts;
 };
